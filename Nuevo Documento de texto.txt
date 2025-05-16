@@ -1,0 +1,29 @@
+<html>
+<meta charset="utf-8">
+
+        <head>
+             <title>Mi web</title>
+             <font face="Coirier New">
+<img src="foto-header.jpg"height="85%" width="100%"/>
+            <h1 staly="color=#FCD6A5;" align="center">Esta soy yo ximena </h1>
+                   <br/><br/>
+            <img src="foto-body.jpg"="40%" width="20%" align="left"/>
+        </head>
+
+        <body style="background-color:#FEBAAD;">
+               <h2 staly="color=#1C0D02;" align="center">Sobre Mí </h2>
+               <P style="color:white;" aling="right">Diana Edith Flores Murillo es una chica de 15 años nacida el 13 de septiembre del 2009 , Estudiante del sabes de jesus del Monte  es amante del chocolate y los días calidos , le gusta mucho el mundo de las matematicas pues considera que es divertido ya que la teoria le aburre, disfruta de véz en cuando de ver una buena pelicula de esas que te llenan de sentimiento y te atrapan con la trama como por ejemplo (El niño de las pillama de rayas y la de En busca de la felicidad), sus maestros y amigos sercanos la consideran una niña muy responsable y cumplida aunque de vez en cuando se olvida de ciertas cosas una que otra tarea o materiales pues es muy distraida. 
+                <P style="color:white;" aling="right">Más cosas interesantes sobre ella es que curiosamente  aveces olvida cosas o aveces recuerda de más aunque suene tonto, ama recibir flores y salir a conoser sitios nuevos eso si siempre con la compañia de personas que la hacen sentir comoda con su manera de ser ya que no es del todo buena asiendo amigos amenudo batalla mucho con eso por eso le gusta valorar mucho asus amistades ...
+Le gusta que la definan como alguien inteligente pero no que pongan prejucios o esteriotipos de que siempre lo sera ps aveces se equivoca, ama la nieve le gusta mucho ela aroma de coco ya se en perfumes o en cosas  relacionen y su mayór sueño es llegar a conocer el mar hacer amigos reales y terminar su carrera para volverse profecional <3 ..  
+              
+                <br/><br/><br/>
+                <h2 style="color:#F6F6F2;" align="center">Contacto</h2>Que quiero hacer cuando termine la prepa ??
+                 <P style="color:white;" aling="right">Lo que a ella le gustaria hacer cuando termine la prepa, es dedicarse a una carrera que le guste y bolverse profecional tambien lograr emprender un negocio que se vuelba muy exitoso y tener sucursales ,para tener su propia casa junto al már , y llegar a conocer muchos lugares y países nuevos y conocer a personas nuevas en mi vida que se vuelban importantes y especiales para ella  ....
+                <P style="color:white;" aling="right"> Espero que ala maestra le guste mi paguina web y me ponga una buena calificasion por la estresada jijis.
+        </body>
+<footer>
+      <p style="color:#000000;">Hecho por: Diana Edith Flores Murillo </p>
+        <p style="color:#000000;">Email: <a style="color:white;" href="mailto:"floresdiana94822@gmail.com"> florediana94822@gmail.com</a></p>
+</footer>
+
+</html>
